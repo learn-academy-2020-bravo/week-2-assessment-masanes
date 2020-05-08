@@ -4,25 +4,25 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. Why would you use the method super()?
 
-  Your answer:
+  Your answer: I think you use it to connect your components and classes not really sure.
 
-  Researched answer:
+  Researched answer: In JS super refers to the parent class constructor. Most importantly you can't use "this" in a constructor until after you've called the parent constructor. 
 
 
 
 2. What is a virtual DOM?
 
-  Your answer:
+  Your answer: DOM stands for document object modeling it is used to connect pieces to javascript so they have something to refer to.
 
-  Researched answer:
+  Researched answer: virtual DOM is an abstraction of the HTML DOM. It is lightweight and detached from the browser specific implementation details. <--il have to do deeper research on this still dont get it>
 
 
 
 3. When creating a basic (stateless) class component in React, what are the necessary elements needed to display "Hello World" in the browser?
 
-  Your answer:
+  Your answer: you need to use the render() method to display all your html code it only returns one statement so you can cheat and wrap everything up in a div or react frament <>
 
-  Researched answer:
+  Researched answer: 
 
 
 
